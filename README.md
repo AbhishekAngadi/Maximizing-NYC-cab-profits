@@ -2,6 +2,8 @@
 
 This project is the analysis of NYC cabs travel routes and fares earned. It further provides Recommendations to maximize profits earned and optimizing routes.
 
+![Picture1](https://user-images.githubusercontent.com/44275206/82963986-3dda9c00-9f92-11ea-8060-ef6aa7664a44.jpg)
+
 ### Data Used: https://s3.amazonaws.com/nyc-tlc/trip+data/green_tripdata_2015-09.csv
 
 ### Recommendation Based on Analysis on Airport Trips
