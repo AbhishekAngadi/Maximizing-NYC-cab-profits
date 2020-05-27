@@ -1,4 +1,4 @@
-# Maximizing-NYC-cab-profits
+# Maximizing NYC Cab Profits
 
 This project is the analysis of NYC cabs travel routes and fares earned. It further provides Recommendations to maximize profits earned and optimizing routes.
 
