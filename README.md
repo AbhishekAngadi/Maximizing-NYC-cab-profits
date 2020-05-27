@@ -2,6 +2,8 @@
 
 This project is the analysis of NYC cabs travel routes and fares earned. It further provides Recommendations to maximize profits earned and optimizing routes.
 
+### Data Used: https://s3.amazonaws.com/nyc-tlc/trip+data/green_tripdata_2015-09.csv
+
 ### Observations and Hypothesis:
 
 1. People definitely prefer short distances over long distances. That's probably because of two reasons: Longer distances are extremely expensive. NY subway or driving their own car would be much cheaper. Secondly, longer distances could also mean increased traffic and longer trip times. NY subway would be a faster means of transport.
